@@ -17,7 +17,7 @@ params = {
     "maxlatitude": 46,
     "minlongitude": 129,
     "maxlongitude": 146,
-    "minmagnitude": 6.0,
+    "minmagnitude": 5.5,
     "orderby": "time-asc",
     "limit": 20000
 }

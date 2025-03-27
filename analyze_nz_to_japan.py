@@ -6,7 +6,7 @@ nz_df = pd.read_csv("E:/earthquake_analysis_nz_japan/nz_earthquakes.csv", parse_
 jp_df = pd.read_csv("E:/earthquake_analysis_nz_japan/japan_earthquakes.csv", parse_dates=["time"])
 
 # 何日以内に起きたかをチェック（7日）
-days_within = 14
+days_within = 21
 count = 0
 match_dates = []
 

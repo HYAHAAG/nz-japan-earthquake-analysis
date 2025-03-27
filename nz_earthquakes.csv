@@ -1,22 +1,46 @@
 time,place,mag,longitude,latitude,depth
 2000-08-15 04:30:08.800,Kermadec Islands region,6.6,179.725,-31.511,357.7
+2000-11-01 10:35:55.030,"67 km NW of Te Anau, New Zealand",6.1,167.009,-45.07,24.5
 2001-10-21 00:29:21.490,"178 km ENE of Opotiki, New Zealand",6.7,178.982,-37.137,18.0
 2003-08-21 12:12:49.790,"56 km NW of Te Anau, New Zealand",7.2,167.144,-45.104,28.0
+2003-11-02 05:32:15.720,"96 km WNW of Te Anau, New Zealand",6.4,166.535,-45.19,10.0
+2004-07-01 04:39:37.510,"Auckland Islands, New Zealand region",6.2,163.669,-49.581,10.0
 2004-11-22 20:26:23.900,"255 km W of Riverton, New Zealand",7.1,164.721,-46.676,10.0
 2004-12-23 14:59:04.410,north of Macquarie Island,8.1,161.345,-49.312,10.0
+2007-09-25 05:16:01.120,Kermadec Islands region,6.2,179.998,-30.965,416.7
 2007-09-30 05:23:34.070,"Auckland Islands, New Zealand region",7.4,164.115,-49.271,10.0
 2007-09-30 09:47:51.970,"Auckland Islands, New Zealand region",6.6,164.11,-49.138,18.0
 2007-10-15 12:29:34.860,"70 km N of Te Anau, New Zealand",6.8,167.553,-44.796,18.0
+2007-10-15 21:28:23.680,"72 km NNW of Te Anau, New Zealand",6.1,167.458,-44.793,19.0
 2007-12-20 07:55:15.840,"46 km SSE of Gisborne, New Zealand",6.6,178.291,-39.011,20.0
+2008-04-26 23:34:49.390,"Auckland Islands, New Zealand region",6.1,164.117,-49.091,10.0
 2009-07-15 09:22:29.030,"97 km WSW of Te Anau, New Zealand",7.8,166.562,-45.762,12.0
+2009-08-05 08:31:40.480,"107 km W of Te Anau, New Zealand",6.1,166.356,-45.554,10.0
+2009-11-22 22:47:27.480,Kermadec Islands region,6.2,179.467,-31.569,435.7
+2010-06-17 13:06:46.590,south of the Kermadec Islands,6.0,179.719,-33.168,170.4
 2010-09-03 16:35:47.770,"19 km NE of Methven, New Zealand",7.0,171.83,-43.522,12.0
+2011-02-21 23:51:42.350,"6 km SE of Christchurch, New Zealand",6.1,172.68,-43.583,5.9
 2011-04-18 13:03:02.730,south of the Kermadec Islands,6.6,179.874,-34.336,86.0
+2012-07-03 10:36:15.520,"63 km S of Opunake, New Zealand",6.3,173.756,-40.023,229.8
+2012-12-07 18:19:06.310,"27 km SE of Tokoroa, New Zealand",6.3,176.067,-38.428,163.0
+2013-06-15 11:20:36.020,south of the Kermadec Islands,6.0,179.402,-33.853,195.0
 2013-07-21 05:09:31.450,"38 km ESE of Blenheim, New Zealand",6.5,174.337,-41.704,17.0
 2013-08-16 02:31:05.750,"29 km SE of Blenheim, New Zealand",6.5,174.152,-41.734,8.2
+2014-01-20 02:52:44.350,"35 km NNE of Masterton, New Zealand",6.1,175.8144,-40.6595,28.0
 2014-11-16 22:33:20.450,"183 km NE of Gisborne, New Zealand",6.7,179.6621,-37.6478,22.0
+2015-04-24 03:36:42.400,"73 km S of Wakefield, New Zealand",6.1,173.0066,-42.0602,48.0
 2016-09-01 16:37:57.300,"175 km NE of Gisborne, New Zealand",7.0,179.1461,-37.3586,19.0
+2016-09-01 17:14:06.060,"179 km NE of Opotiki, New Zealand",6.1,178.9291,-37.0522,13.73
 2016-11-13 11:02:56.340,"53 km NNE of Amberley, New Zealand",7.8,173.054,-42.7373,15.11
 2016-11-13 11:32:06.540,"92 km SSW of Blenheim, New Zealand",6.5,173.6694,-42.3205,10.0
+2016-11-13 11:52:45.010,"78 km SSW of Blenheim, New Zealand",6.1,173.6227,-42.1762,13.99
+2016-11-13 13:31:25.660,"90 km SSW of Blenheim, New Zealand",6.2,173.6961,-42.3093,2.09
 2016-11-14 00:34:22.610,"74 km NE of Amberley, New Zealand",6.5,173.2543,-42.6058,9.0
+2017-06-29 07:03:11.040,Kermadec Islands region,6.0,179.9257,-31.1253,404.82
 2017-07-11 07:00:01.190,"Auckland Islands, New Zealand region",6.6,164.0157,-49.4837,10.0
+2018-10-30 02:13:39.480,"62 km E of Waitara, New Zealand",6.1,174.9584,-39.057,225.48
 2021-03-04 13:27:34.647,"182 km NE of Gisborne, New Zealand",7.3,179.4576,-37.4787,10.0
+2021-03-06 00:16:22.227,"183 km NE of Gisborne, New Zealand",6.3,179.5947,-37.5763,13.0
+2021-04-05 07:37:52.938,"194 km NE of Gisborne, New Zealand",6.1,179.6324,-37.46,24.0
+2022-01-10 00:06:30.834,south of the Kermadec Islands,6.2,179.574,-33.7823,7.0
+2023-05-31 02:21:23.997,"Auckland Islands, New Zealand region",6.3,163.8553,-49.6093,14.778
